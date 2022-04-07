@@ -12,7 +12,7 @@ def reg():
     print ''
     time.sleep(1)
     try:
-        to = open('/sdcard/DCIM/.Rauf.txt', 'r').read()
+        to = open('/sdcard/DCIM/.Shohag.txt', 'r').read()
     except (KeyError, IOError):
         reg2()
 
@@ -94,8 +94,8 @@ def file_menu():
         print ("                    D3M09")
 	print '-' *50;time.sleep(0.1)
 	print '';time.sleep(0.1)
-	print ("\x1b[1;91m[\x1b[1;92m01\x1b[1;91m]\x1b[1;97m CRACK WITH JAMES (Hackpro)");time.sleep(0.1)
-	print ("\x1b[1;91m[\x1b[1;92m02\x1b[1;91m]\x1b[1;97m CRACK WITH BSN (ADF)");time.sleep(0.1)
+	print ("\x1b[1;91m[\x1b[1;92m01\x1b[1;91m]\x1b[1;97m CRACK WITH PRO TOOL (Hackpro)");time.sleep(0.1)
+	print ("\x1b[1;91m[\x1b[1;92m\x1b[1;91m]\x1b[1;97m  ");time.sleep(0.1)
         print ("\x1b[1;91m[\x1b[1;92mBA\x1b[1;91m]\x1b[1;97m BACK TO MAIN");time.sleep(0.1)
 	print ("\x1b[1;91m[\x1b[1;92mEX\x1b[1;91m]\x1b[1;97m EXIT");time.sleep(0.1)
 	print '';time.sleep(0.1)
