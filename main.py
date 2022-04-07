@@ -64,7 +64,7 @@ def select_1():
     time.sleep(0.2)
     print ("\x1b[1;91m[\x1b[1;92m01\x1b[1;91m]\x1b[1;97m START FILE CLONING");time.sleep(0.1)
     print ("\x1b[1;91m[\x1b[1;92m\x1b[1;91m]\x1b[1;97m");time.sleep(0.1)
-    print ("\x1b[1;91m[\x1b[1;92m\x1b[1;91m]\x1b[1;97m );time.sleep(0.1)
+    print ("\x1b[1;91m[\x1b[1;92m\x1b[1;91m]\x1b[1;97m");time.sleep(0.1)
     print ("\x1b[1;91m[\x1b[1;92mAB\x1b[1;91m]\x1b[1;97m ABOUT");time.sleep(0.1)
     print ("\x1b[1;91m[\x1b[1;92mEX\x1b[1;91m]\x1b[1;97m EXIT");time.sleep(0.1)
     print '';time.sleep(0.1)
