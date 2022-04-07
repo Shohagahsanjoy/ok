@@ -101,7 +101,7 @@ def file_menu():
 	print '';time.sleep(0.1)
 	mo = raw_input('SELECT : ')
         if mo == ('1'):
-          os.system('cd xx && python Prohack.py')
+          os.system('cd xx && python2 Prohack.py')
         elif mo == ('2'):
           os.system('cd xxx && python2 Adf.py')
         elif mo == ('BA'):
