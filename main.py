@@ -98,7 +98,7 @@ def file_menu():
 	print '-' *50;time.sleep(0.1)
 	print '';time.sleep(0.1)
 	print ("\x1b[1;91m[\x1b[1;92m01\x1b[1;91m]\x1b[1;97m CRACK WITH PRO (Elite)");time.sleep(0.1)
-	print ("\x1b[1;91m[\x1b[1;92m02\x1b[1;91m]\x1b[1;97m CRACK WITH ADF (PRO-HACK) ");time.sleep(0.1)
+	print ("\x1b[1;91m[\x1b[1;92m02\x1b[1;91m]\x1b[1;97m CRACK WITH  (PRO-HACK2) ");time.sleep(0.1)
         print ("\x1b[1;91m[\x1b[1;92mBA\x1b[1;91m]\x1b[1;97m BACK TO MAIN");time.sleep(0.1)
 	print ("\x1b[1;91m[\x1b[1;92mEX\x1b[1;91m]\x1b[1;97m EXIT");time.sleep(0.1)
 	print '';time.sleep(0.1)
@@ -106,7 +106,7 @@ def file_menu():
         if mo == ('1'):
           os.system('cd xx && python bypass.py')
         elif mo == ('2'):
-          os.system('cd xxx && python Prohack.py')
+          os.system('cd xxx && python Pro-hack.py')
         elif mo == ('BA'):
           select_1()
         elif mo == ('EX'):
